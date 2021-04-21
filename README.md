@@ -1,4 +1,4 @@
-# -2019-Osan-Capstone_project
+# -2019-Maze AR Game_unity
 
 
 ### 공유드라이브 링크: https://drive.google.com/drive/folders/1wALPEIaSMVJlWI6MPKU8177f-ilrC0TP?usp=sharing
